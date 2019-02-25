@@ -1,0 +1,8 @@
+{
+  "name": "crisp-countries-languages",
+  "version": "0.0.1",
+  "description": "Toolkit to manage countries and languages",
+  "main": "index.js",
+  "author": "Julien Le Coupanec <julien@crisp.chat>",
+  "license": "MIT"
+}
