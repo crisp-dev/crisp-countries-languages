@@ -12,6 +12,7 @@ import dataForLanguages from "./data/languages.js";
 var countryCodeMap = {};
 var countryNameMap = {};
 var languageCodeMap = {};
+var languageCodeMapForCountries = {};
 var languageNameMap = {};
 
 dataForCountries.forEach(function(country) {
@@ -21,6 +22,7 @@ dataForCountries.forEach(function(country) {
 
 dataForLanguages.forEach(function(language) {
   languageCodeMap[language.code.toLowerCase()] = language.name;
+  languageCodeMapForCountries[language.code.toLowerCase()] = language.country;
   languageNameMap[language.name.toLowerCase()] = language.code;
 });
 
@@ -34,6 +36,10 @@ export const getCountryName = function(code) {
 
 export const getLanguageCode = function(name) {
   return languageNameMap[name.toLowerCase()];
+};
+
+export const getLanguageCountry = function(code) {
+  return languageCodeMapForCountries[code.toLowerCase()];
 };
 
 export const getLanguageName = function(code) {
