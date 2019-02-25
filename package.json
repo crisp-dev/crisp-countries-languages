@@ -1,8 +1,24 @@
 {
-  "name": "crisp-countries-languages",
   "version": "0.0.1",
+  "name": "crisp-countries-languages",
   "description": "Toolkit to manage countries and languages",
-  "main": "index.js",
   "author": "Julien Le Coupanec <julien@crisp.chat>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/crisp-im/crisp-countries-languages"
+  },
+  "bugs": {
+    "url": "https://github.com/crisp-im/crisp-countries-languages/issues"
+  },
+  "keywords": [
+    "country",
+    "countries",
+    "language",
+    "languages",
+    "language-list",
+    "ISO 3166-1-alpha-2",
+    "ISO 3166-1"
+  ],
   "license": "MIT"
 }
