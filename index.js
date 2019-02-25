@@ -4,8 +4,8 @@
  * IMPORTS
  ***************************************************************************/
 
-var countries = require("./data/countries.json");
-var languages = require("./data/languages.json");
+var countries = require("./data/countries.js");
+var languages = require("./data/languages.js");
 
 /**************************************************************************
  * EXPORTS
