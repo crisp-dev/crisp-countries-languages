@@ -1,15 +1,18 @@
-"use strict";
-
 /**************************************************************************
  * IMPORTS
  ***************************************************************************/
 
-var countries = require("./data/countries.js");
-var languages = require("./data/languages.js");
+import dataForCountries from "./data/countries.js";
+import dataForLanguages from "./data/languages.js";
 
 /**************************************************************************
  * EXPORTS
  ***************************************************************************/
 
-exports.countries = countries;
-exports.languages = languages;
+export default {
+  dataForCountries,
+  dataForLanguages
+};
+
+export const countries = dataForCountries;
+export const languages = dataForLanguages;
