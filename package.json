@@ -6,10 +6,10 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/crisp-im/crisp-countries-languages"
+    "url": "git://github.com/crisp-dev/crisp-countries-languages"
   },
   "bugs": {
-    "url": "https://github.com/crisp-im/crisp-countries-languages/issues"
+    "url": "https://github.com/crisp-dev/crisp-countries-languages/issues"
   },
   "keywords": [
     "country",
