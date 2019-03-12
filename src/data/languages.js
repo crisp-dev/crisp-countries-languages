@@ -755,7 +755,7 @@ export default [
     name: "Sundanese"
   },
   {
-    code: "sv",
+    code: "se",
     country: "se",
     name: "Swedish"
   },
