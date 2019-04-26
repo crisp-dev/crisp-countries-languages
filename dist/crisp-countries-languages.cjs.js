@@ -1356,7 +1356,7 @@ var dataForLanguages = [{
   country: "su",
   name: "Sundanese"
 }, {
-  code: "se",
+  code: "sv",
   country: "se",
   name: "Swedish"
 }, {
