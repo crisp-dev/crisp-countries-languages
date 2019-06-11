@@ -1,9 +1,9 @@
 {
-  "version": "0.1.3",
+  "version": "0.1.4",
   "name": "crisp-countries-languages",
   "description": "Toolkit to manage countries and languages",
   "author": "Julien Le Coupanec <julien@crisp.chat>",
-  "main": "dist/crisp-countries-languages.cjs.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/crisp-dev/crisp-countries-languages"
