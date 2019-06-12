@@ -101,7 +101,7 @@ export default [
   },
   {
     code: "bs",
-    country: "unknown",
+    country: "ba",
     name: "Bosnian"
   },
   {
@@ -116,7 +116,7 @@ export default [
   },
   {
     code: "ch",
-    country: "unknown",
+    country: "gu",
     name: "Chamorro"
   },
   {
@@ -126,7 +126,7 @@ export default [
   },
   {
     code: "cr",
-    country: "unknown",
+    country: "ca",
     name: "Cree"
   },
   {
@@ -136,12 +136,12 @@ export default [
   },
   {
     code: "cu",
-    country: "unknown",
+    country: "bg",
     name: "Old Church Slavonic / Old Bulgarian"
   },
   {
     code: "cv",
-    country: "unknown",
+    country: "ru",
     name: "Chuvash"
   },
   {
@@ -166,12 +166,12 @@ export default [
   },
   {
     code: "dz",
-    country: "unknown",
+    country: "bt",
     name: "Dzongkha"
   },
   {
     code: "ee",
-    country: "unknown",
+    country: "gh",
     name: "Ewe"
   },
   {
@@ -256,7 +256,7 @@ export default [
   },
   {
     code: "gn",
-    country: "unknown",
+    country: "py",
     name: "Guarani"
   },
   {
@@ -331,7 +331,7 @@ export default [
   },
   {
     code: "ig",
-    country: "unknown",
+    country: "ng",
     name: "Igbo"
   },
   {
@@ -381,12 +381,12 @@ export default [
   },
   {
     code: "kg",
-    country: "unknown",
+    country: "cd",
     name: "Kongo"
   },
   {
     code: "ki",
-    country: "unknown",
+    country: "ke",
     name: "Kikuyu"
   },
   {
@@ -421,7 +421,7 @@ export default [
   },
   {
     code: "kr",
-    country: "unknown",
+    country: "ng",
     name: "Kanuri"
   },
   {
@@ -441,7 +441,7 @@ export default [
   },
   {
     code: "kw",
-    country: "unknown",
+    country: "gb",
     name: "Cornish"
   },
   {
@@ -466,7 +466,7 @@ export default [
   },
   {
     code: "li",
-    country: "unknown",
+    country: "de",
     name: "Limburgian"
   },
   {
@@ -521,8 +521,8 @@ export default [
   },
   {
     code: "mo",
-    country: "unknown",
-    name: "Moldovan"
+    country: "md",
+    name: "Moldavian"
   },
   {
     code: "mr",
@@ -541,12 +541,12 @@ export default [
   },
   {
     code: "my",
-    country: "unknown",
+    country: "mm",
     name: "Burmese"
   },
   {
     code: "na",
-    country: "unknown",
+    country: "nr",
     name: "Nauruan"
   },
   {
@@ -561,7 +561,7 @@ export default [
   },
   {
     code: "ng",
-    country: "unknown",
+    country: "na",
     name: "Ndonga"
   },
   {
@@ -581,7 +581,7 @@ export default [
   },
   {
     code: "nr",
-    country: "unknown",
+    country: "za",
     name: "South Ndebele"
   },
   {
@@ -606,7 +606,7 @@ export default [
   },
   {
     code: "om",
-    country: "unknown",
+    country: "et",
     name: "Oromo"
   },
   {
@@ -681,17 +681,17 @@ export default [
   },
   {
     code: "sc",
-    country: "unknown",
+    country: "it",
     name: "Sardinian"
   },
   {
     code: "sd",
-    country: "unknown",
+    country: "in",
     name: "Sindhi"
   },
   {
     code: "sg",
-    country: "unknown",
+    country: "cf",
     name: "Sango"
   },
   {
@@ -716,12 +716,12 @@ export default [
   },
   {
     code: "sm",
-    country: "unknown",
+    country: "ws",
     name: "Samoan"
   },
   {
     code: "sn",
-    country: "unknown",
+    country: "zw",
     name: "Shona"
   },
   {
@@ -736,17 +736,17 @@ export default [
   },
   {
     code: "sr",
-    country: "unknown",
+    country: "rs",
     name: "Serbian"
   },
   {
     code: "ss",
-    country: "unknown",
+    country: "za",
     name: "Swati"
   },
   {
     code: "st",
-    country: "unknown",
+    country: "za",
     name: "Southern Sotho"
   },
   {
@@ -776,7 +776,7 @@ export default [
   },
   {
     code: "tg",
-    country: "unknown",
+    country: "tj",
     name: "Tajik"
   },
   {
@@ -796,7 +796,7 @@ export default [
   },
   {
     code: "tl",
-    country: "unknown",
+    country: "ph",
     name: "Tagalog"
   },
   {
@@ -806,7 +806,7 @@ export default [
   },
   {
     code: "to",
-    country: "unknown",
+    country: "to",
     name: "Tonga"
   },
   {
@@ -826,7 +826,7 @@ export default [
   },
   {
     code: "tw",
-    country: "unknown",
+    country: "gh",
     name: "Twi"
   },
   {
@@ -851,7 +851,7 @@ export default [
   },
   {
     code: "ve",
-    country: "unknown",
+    country: "za",
     name: "Venda"
   },
   {
@@ -891,7 +891,7 @@ export default [
   },
   {
     code: "za",
-    country: "unknown",
+    country: "cn",
     name: "Zhuang"
   },
   {
