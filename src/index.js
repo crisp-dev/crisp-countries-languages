@@ -1,3 +1,9 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
 /**************************************************************************
  * IMPORTS
  ***************************************************************************/
@@ -50,11 +56,16 @@ var getLanguageName = function(code) {
  * EXPORTS
  ***************************************************************************/
 
-module.exports.getCountryCode = getCountryCode;
-module.exports.getCountryName = getCountryName;
-module.exports.getLanguageCode = getLanguageCode;
-module.exports.getLanguageCountry = getLanguageCountry;
-module.exports.getLanguageName = getLanguageName;
+exports.getCountryCode = getCountryCode;
+exports.getCountryName = getCountryName;
+exports.getLanguageCode = getLanguageCode;
+exports.getLanguageCountry = getLanguageCountry;
+exports.getLanguageName = getLanguageName;
 
-module.exports.countries = dataForCountries;
-module.exports.languages = dataForLanguages;
+exports.countries = dataForCountries;
+exports.languages = dataForLanguages;
+
+exports.default = {
+  dataForCountries: dataForCountries,
+  dataForLanguages: dataForLanguages
+};
