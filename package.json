@@ -1,9 +1,9 @@
 {
-  "version": "0.1.8",
+  "version": "0.2.0",
   "name": "crisp-countries-languages",
   "description": "Toolkit to manage countries and languages",
   "author": "Julien Le Coupanec <julien@crisp.chat>",
-  "main": "dist/crisp-countries-languages.cjs.js",
+  "main": "src/index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/crisp-dev/crisp-countries-languages"
@@ -20,8 +20,5 @@
     "ISO 3166-1-alpha-2",
     "ISO 3166-1"
   ],
-  "license": "MIT",
-  "dependencies": {
-    "bili": "^4.4.0"
-  }
+  "license": "MIT"
 }
