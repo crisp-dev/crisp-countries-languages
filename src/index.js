@@ -2,8 +2,8 @@
  * IMPORTS
  ***************************************************************************/
 
-import dataForCountries from "./data/countries.js";
-import dataForLanguages from "./data/languages.js";
+import dataForCountries from "./src/data/countries.js";
+import dataForLanguages from "./src/data/languages.js";
 
 /**************************************************************************
  * FUNCTIONS
