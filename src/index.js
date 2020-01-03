@@ -2,8 +2,8 @@
  * IMPORTS
  ***************************************************************************/
 
-import dataForCountries from "./src/data/countries.js";
-import dataForLanguages from "./src/data/languages.js";
+var dataForCountries = require("./data/countries.js");
+var dataForLanguages = require("./data/languages.js");
 
 /**************************************************************************
  * FUNCTIONS
@@ -26,23 +26,23 @@ dataForLanguages.forEach(function(language) {
   languageNameMap[language.name.toLowerCase()] = language.code;
 });
 
-export const getCountryCode = function(name) {
+var getCountryCode = function(name) {
   return countryNameMap[name.toLowerCase()];
 };
 
-export const getCountryName = function(code) {
+var getCountryName = function(code) {
   return countryCodeMap[code.toLowerCase()];
 };
 
-export const getLanguageCode = function(name) {
+var getLanguageCode = function(name) {
   return languageNameMap[name.toLowerCase()];
 };
 
-export const getLanguageCountry = function(code) {
+var getLanguageCountry = function(code) {
   return languageCodeMapForCountries[code.toLowerCase()];
 };
 
-export const getLanguageName = function(code) {
+var getLanguageName = function(code) {
   return languageCodeMap[code.toLowerCase()];
 };
 
@@ -50,10 +50,11 @@ export const getLanguageName = function(code) {
  * EXPORTS
  ***************************************************************************/
 
-export default {
-  dataForCountries,
-  dataForLanguages
-};
+module.exports.getCountryCode = getCountryCode;
+module.exports.getCountryName = getCountryName;
+module.exports.getLanguageCode = getLanguageCode;
+module.exports.getLanguageCountry = getLanguageCountry;
+module.exports.getLanguageName = getLanguageName;
 
-export const countries = dataForCountries;
-export const languages = dataForLanguages;
+module.exports.countries = dataForCountries;
+module.exports.languages = dataForLanguages;
