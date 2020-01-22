@@ -284,6 +284,10 @@ module.exports = [
     name: "Ethiopia"
   },
   {
+    code: "EU",
+    name: "European Union"
+  },
+  {
     code: "FK",
     name: "Falkland Islands (Malvinas)"
   },

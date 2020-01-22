@@ -186,7 +186,7 @@ module.exports = [
   },
   {
     code: "eo",
-    country: "eo",
+    country: "eu",
     name: "Esperanto"
   },
   {
