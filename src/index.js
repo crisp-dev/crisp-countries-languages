@@ -31,7 +31,7 @@ dataForLanguages.forEach(function(language) {
   languageCodeMap[language.code.toLowerCase()] = language.name;
   languageCodeMapForCountries[language.code.toLowerCase()] = language.country;
   languageNameMap[language.name.toLowerCase()] = language.code;
-  languageDirectionMap[language.name.toLowerCase()] = language.direction;
+  languageDirectionMap[language.code.toLowerCase()] = language.direction;
 });
 
 var getCountryCode = function(name) {
