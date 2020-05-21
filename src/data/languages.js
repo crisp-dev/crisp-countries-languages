@@ -2,352 +2,422 @@ module.exports = [
   {
     code: "aa",
     country: "aa",
-    name: "Afar"
+    name: "Afar",
+    direction: "ltr"
   },
   {
     code: "ab",
     country: "ab",
-    name: "Abkhazian"
+    name: "Abkhazian",
+    direction: "ltr"
   },
   {
     code: "af",
     country: "za",
-    name: "Afrikaans"
+    name: "Afrikaans",
+    direction: "ltr"
   },
   {
     code: "ak",
     country: "ak",
-    name: "Akan"
+    name: "Akan",
+    direction: "ltr"
   },
   {
     code: "am",
     country: "et",
-    name: "Amharic"
+    name: "Amharic",
+    direction: "ltr"
   },
   {
     code: "an",
     country: "an",
-    name: "Aragonese"
+    name: "Aragonese",
+    direction: "ltr"
   },
   {
     code: "ar",
     country: "ae",
-    name: "Arabic"
+    name: "Arabic",
+    direction: "rtl"
   },
   {
     code: "as",
     country: "in",
-    name: "Assamese"
+    name: "Assamese",
+    direction: "ltr"
   },
   {
     code: "av",
     country: "av",
-    name: "Avar"
+    name: "Avar",
+    direction: "ltr"
   },
   {
     code: "ay",
     country: "ay",
-    name: "Aymara"
+    name: "Aymara",
+    direction: "ltr"
   },
   {
     code: "az",
     country: "az",
-    name: "Azerbaijani"
+    name: "Azerbaijani",
+    direction: "ltr"
   },
   {
     code: "ba",
     country: "ru",
-    name: "Bashkir"
+    name: "Bashkir",
+    direction: "ltr"
   },
   {
     code: "be",
     country: "by",
-    name: "Belarusian"
+    name: "Belarusian",
+    direction: "ltr"
   },
   {
     code: "bg",
     country: "bg",
-    name: "Bulgarian"
+    name: "Bulgarian",
+    direction: "ltr"
   },
   {
     code: "bh",
     country: "bh",
-    name: "Bihari"
+    name: "Bihari",
+    direction: "ltr"
   },
   {
     code: "bi",
     country: "bi",
-    name: "Bislama"
+    name: "Bislama",
+    direction: "ltr"
   },
   {
     code: "bm",
     country: "bm",
-    name: "Bambara"
+    name: "Bambara",
+    direction: "ltr"
   },
   {
     code: "bn",
     country: "bd",
-    name: "Bengali"
+    name: "Bengali",
+    direction: "ltr"
   },
   {
     code: "bo",
     country: "cn",
-    name: "Tibetan"
+    name: "Tibetan",
+    direction: "ltr"
   },
   {
     code: "br",
     country: "fr",
-    name: "Breton"
+    name: "Breton",
+    direction: "ltr"
   },
   {
     code: "bs",
     country: "ba",
-    name: "Bosnian"
+    name: "Bosnian",
+    direction: "ltr"
   },
   {
     code: "ca",
     country: "es",
-    name: "Catalan"
+    name: "Catalan",
+    direction: "ltr"
   },
   {
     code: "ce",
     country: "ce",
-    name: "Chechen"
+    name: "Chechen",
+    direction: "ltr"
   },
   {
     code: "ch",
     country: "gu",
-    name: "Chamorro"
+    name: "Chamorro",
+    direction: "ltr"
   },
   {
     code: "co",
     country: "fr",
-    name: "Corsican"
+    name: "Corsican",
+    direction: "ltr"
   },
   {
     code: "cr",
     country: "ca",
-    name: "Cree"
+    name: "Cree",
+    direction: "ltr"
   },
   {
     code: "cs",
     country: "cz",
-    name: "Czech"
+    name: "Czech",
+    direction: "ltr"
   },
   {
     code: "cu",
     country: "bg",
-    name: "Old Church Slavonic / Old Bulgarian"
+    name: "Old Church Slavonic / Old Bulgarian",
+    direction: "ltr"
   },
   {
     code: "cv",
     country: "ru",
-    name: "Chuvash"
+    name: "Chuvash",
+    direction: "ltr"
   },
   {
     code: "cy",
     country: "gb",
-    name: "Welsh"
+    name: "Welsh",
+    direction: "ltr"
   },
   {
     code: "da",
     country: "dk",
-    name: "Danish"
+    name: "Danish",
+    direction: "ltr"
   },
   {
     code: "de",
     country: "de",
-    name: "German"
+    name: "German",
+    direction: "ltr"
   },
   {
     code: "dv",
     country: "mv",
-    name: "Divehi"
+    name: "Divehi",
+    direction: "rtl"
   },
   {
     code: "dz",
     country: "bt",
-    name: "Dzongkha"
+    name: "Dzongkha",
+    direction: "ltr"
   },
   {
     code: "ee",
     country: "gh",
-    name: "Ewe"
+    name: "Ewe",
+    direction: "ltr"
   },
   {
     code: "el",
     country: "gr",
-    name: "Greek"
+    name: "Greek",
+    direction: "ltr"
   },
   {
     code: "en",
     country: "gb",
-    name: "English"
+    name: "English",
+    direction: "ltr"
   },
   {
     code: "eo",
     country: "eu",
-    name: "Esperanto"
+    name: "Esperanto",
+    direction: "ltr"
   },
   {
     code: "es",
     country: "es",
-    name: "Spanish"
+    name: "Spanish",
+    direction: "ltr"
   },
   {
     code: "et",
     country: "ee",
-    name: "Estonian"
+    name: "Estonian",
+    direction: "ltr"
   },
   {
     code: "eu",
     country: "es",
-    name: "Basque"
+    name: "Basque",
+    direction: "ltr"
   },
   {
     code: "fa",
     country: "ir",
-    name: "Persian"
+    name: "Persian",
+    direction: "rtl"
   },
   {
     code: "ff",
     country: "ff",
-    name: "Peul"
+    name: "Peul",
+    direction: "ltr"
   },
   {
     code: "fi",
     country: "fi",
-    name: "Finnish"
+    name: "Finnish",
+    direction: "ltr"
   },
   {
     code: "fj",
     country: "fj",
-    name: "Fijian"
+    name: "Fijian",
+    direction: "ltr"
   },
   {
     code: "fo",
     country: "fo",
-    name: "Faroese"
+    name: "Faroese",
+    direction: "ltr"
   },
   {
     code: "fr",
     country: "fr",
-    name: "French"
+    name: "French",
+    direction: "ltr"
   },
   {
     code: "fy",
     country: "nl",
-    name: "West Frisian"
+    name: "West Frisian",
+    direction: "ltr"
   },
   {
     code: "ga",
     country: "ie",
-    name: "Irish"
+    name: "Irish",
+    direction: "ltr"
   },
   {
     code: "gd",
     country: "gb",
-    name: "Scottish Gaelic"
+    name: "Scottish Gaelic",
+    direction: "ltr"
   },
   {
     code: "gl",
     country: "es",
-    name: "Galician"
+    name: "Galician",
+    direction: "ltr"
   },
   {
     code: "gn",
     country: "py",
-    name: "Guarani"
+    name: "Guarani",
+    direction: "ltr"
   },
   {
     code: "gu",
     country: "in",
-    name: "Gujarati"
+    name: "Gujarati",
+    direction: "ltr"
   },
   {
     code: "gv",
     country: "gv",
-    name: "Manx"
+    name: "Manx",
+    direction: "ltr"
   },
   {
     code: "ha",
     country: "ha",
-    name: "Hausa"
+    name: "Hausa",
+    direction: "rtl"
   },
   {
     code: "he",
     country: "il",
-    name: "Hebrew"
+    name: "Hebrew",
+    direction: "rtl"
   },
   {
     code: "hi",
     country: "in",
-    name: "Hindi"
+    name: "Hindi",
+    direction: "ltr"
   },
   {
     code: "ho",
     country: "ho",
-    name: "Hiri Motu"
+    name: "Hiri Motu",
+    direction: "ltr"
   },
   {
     code: "hr",
     country: "hr",
-    name: "Croatian"
+    name: "Croatian",
+    direction: "ltr"
   },
   {
     code: "ht",
     country: "ht",
-    name: "Haitian"
+    name: "Haitian",
+    direction: "ltr"
   },
   {
     code: "hu",
     country: "hu",
-    name: "Hungarian"
+    name: "Hungarian",
+    direction: "ltr"
   },
   {
     code: "hy",
     country: "am",
-    name: "Armenian"
+    name: "Armenian",
+    direction: "ltr"
   },
   {
     code: "hz",
     country: "hz",
-    name: "Herero"
+    name: "Herero",
+    direction: "ltr"
   },
   {
     code: "ia",
     country: "unknown",
-    name: "Interlingua"
+    name: "Interlingua",
+    direction: "ltr"
   },
   {
     code: "id",
     country: "id",
-    name: "Indonesian"
+    name: "Indonesian",
+    direction: "ltr"
   },
   {
     code: "ie",
     country: "ie",
-    name: "Interlingue"
+    name: "Interlingue",
+    direction: "ltr"
   },
   {
     code: "ig",
     country: "ng",
-    name: "Igbo"
+    name: "Igbo",
+    direction: "ltr"
   },
   {
     code: "ii",
     country: "cn",
-    name: "Sichuan Yi"
+    name: "Sichuan Yi",
+    direction: "ltr"
   },
   {
     code: "ik",
     country: "ik",
-    name: "Inupiak"
+    name: "Inupiak",
+    direction: "ltr"
   },
   {
     code: "io",
     country: "io",
-    name: "Ido"
+    name: "Ido",
+    direction: "ltr"
   },
   {
     code: "is",
@@ -357,92 +427,110 @@ module.exports = [
   {
     code: "it",
     country: "it",
-    name: "Italian"
+    name: "Italian",
+    direction: "ltr"
   },
   {
     code: "iu",
     country: "iu",
-    name: "Inuktitut"
+    name: "Inuktitut",
+    direction: "ltr"
   },
   {
     code: "ja",
     country: "jp",
-    name: "Japanese"
+    name: "Japanese",
+    direction: "ltr"
   },
   {
     code: "jv",
     country: "jv",
-    name: "Javanese"
+    name: "Javanese",
+    direction: "ltr"
   },
   {
     code: "ka",
     country: "ge",
-    name: "Georgian"
+    name: "Georgian",
+    direction: "ltr"
   },
   {
     code: "kg",
     country: "cd",
-    name: "Kongo"
+    name: "Kongo",
+    direction: "ltr"
   },
   {
     code: "ki",
     country: "ke",
-    name: "Kikuyu"
+    name: "Kikuyu",
+    direction: "ltr"
   },
   {
     code: "kj",
     country: "kj",
-    name: "Kuanyama"
+    name: "Kuanyama",
+    direction: "ltr"
   },
   {
     code: "kk",
     country: "kz",
-    name: "Kazakh"
+    name: "Kazakh",
+    direction: "ltr"
   },
   {
     code: "kl",
     country: "gl",
-    name: "Greenlandic"
+    name: "Greenlandic",
+    direction: "ltr"
   },
   {
     code: "km",
     country: "kh",
-    name: "Cambodian"
+    name: "Cambodian",
+    direction: "ltr"
   },
   {
     code: "kn",
     country: "in",
-    name: "Kannada"
+    name: "Kannada",
+    direction: "ltr"
   },
   {
     code: "ko",
     country: "kr",
-    name: "Korean"
+    name: "Korean",
+    direction: "ltr"
   },
   {
     code: "kr",
     country: "ng",
-    name: "Kanuri"
+    name: "Kanuri",
+    direction: "ltr"
   },
   {
     code: "ks",
     country: "ks",
-    name: "Kashmiri"
+    name: "Kashmiri",
+    direction: "rtl"
   },
   {
     code: "ku",
     country: "ku",
-    name: "Kurdish"
+    name: "Kurdish",
+    direction: "rtl"
   },
   {
     code: "kv",
     country: "kv",
-    name: "Komi"
+    name: "Komi",
+    direction: "ltr"
   },
   {
     code: "kw",
     country: "gb",
-    name: "Cornish"
+    name: "Cornish",
+    direction: "ltr"
   },
   {
     code: "ky",
@@ -452,456 +540,548 @@ module.exports = [
   {
     code: "la",
     country: "unknown",
-    name: "Latin"
+    name: "Latin",
+    direction: "ltr"
   },
   {
     code: "lb",
     country: "lu",
-    name: "Luxembourgish"
+    name: "Luxembourgish",
+    direction: "ltr"
   },
   {
     code: "lg",
     country: "lg",
-    name: "Ganda"
+    name: "Ganda",
+    direction: "ltr"
   },
   {
     code: "li",
     country: "de",
-    name: "Limburgian"
+    name: "Limburgian",
+    direction: "ltr"
   },
   {
     code: "ln",
     country: "ln",
-    name: "Lingala"
+    name: "Lingala",
+    direction: "ltr"
   },
   {
     code: "lo",
     country: "la",
-    name: "Laotian"
+    name: "Laotian",
+    direction: "ltr"
   },
   {
     code: "lt",
     country: "lt",
-    name: "Lithuanian"
+    name: "Lithuanian",
+    direction: "ltr"
   },
   {
     code: "lv",
     country: "lv",
-    name: "Latvian"
+    name: "Latvian",
+    direction: "ltr"
   },
   {
     code: "mg",
     country: "mg",
-    name: "Malagasy"
+    name: "Malagasy",
+    direction: "ltr"
   },
   {
     code: "mh",
     country: "mh",
-    name: "Marshallese"
+    name: "Marshallese",
+    direction: "ltr"
   },
   {
     code: "mi",
     country: "nz",
-    name: "Maori"
+    name: "Maori",
+    direction: "ltr"
   },
   {
     code: "mk",
     country: "mk",
-    name: "Macedonian"
+    name: "Macedonian",
+    direction: "ltr"
   },
   {
     code: "ml",
     country: "in",
-    name: "Malayalam"
+    name: "Malayalam",
+    direction: "ltr"
   },
   {
     code: "mn",
     country: "mn",
-    name: "Mongolian"
+    name: "Mongolian",
+    direction: "ltr"
   },
   {
     code: "mo",
     country: "md",
-    name: "Moldavian"
+    name: "Moldavian",
+    direction: "ltr"
   },
   {
     code: "mr",
     country: "in",
-    name: "Marathi"
+    name: "Marathi",
+    direction: "ltr"
   },
   {
     code: "ms",
     country: "bn",
-    name: "Malay"
+    name: "Malay",
+    direction: "ltr"
   },
   {
     code: "mt",
     country: "mt",
-    name: "Maltese"
+    name: "Maltese",
+    direction: "ltr"
   },
   {
     code: "my",
     country: "mm",
-    name: "Burmese"
+    name: "Burmese",
+    direction: "ltr"
   },
   {
     code: "na",
     country: "nr",
-    name: "Nauruan"
+    name: "Nauruan",
+    direction: "ltr"
   },
   {
     code: "nd",
     country: "nd",
-    name: "North Ndebele"
+    name: "North Ndebele",
+    direction: "ltr"
   },
   {
     code: "ne",
     country: "np",
-    name: "Nepali"
+    name: "Nepali",
+    direction: "ltr"
   },
   {
     code: "ng",
     country: "na",
-    name: "Ndonga"
+    name: "Ndonga",
+    direction: "ltr"
   },
   {
     code: "nl",
     country: "nl",
-    name: "Dutch"
+    name: "Dutch",
+    direction: "ltr"
   },
   {
     code: "nn",
     country: "no",
-    name: "Norwegian Nynorsk"
+    name: "Norwegian Nynorsk",
+    direction: "ltr"
   },
   {
     code: "no",
     country: "no",
-    name: "Norwegian"
+    name: "Norwegian",
+    direction: "ltr"
   },
   {
     code: "nr",
     country: "za",
-    name: "South Ndebele"
+    name: "South Ndebele",
+    direction: "ltr"
   },
   {
     code: "nv",
     country: "nv",
-    name: "Navajo"
+    name: "Navajo",
+    direction: "ltr"
   },
   {
     code: "ny",
     country: "ny",
-    name: "Chichewa"
+    name: "Chichewa",
+    direction: "ltr"
   },
   {
     code: "oc",
     country: "fr",
-    name: "Occitan"
+    name: "Occitan",
+    direction: "ltr"
   },
   {
     code: "oj",
     country: "oj",
-    name: "Ojibwa"
+    name: "Ojibwa",
+    direction: "ltr"
   },
   {
     code: "om",
     country: "et",
-    name: "Oromo"
+    name: "Oromo",
+    direction: "ltr"
   },
   {
     code: "or",
     country: "in",
-    name: "Oriya"
+    name: "Oriya",
+    direction: "ltr"
   },
   {
     code: "os",
     country: "os",
-    name: "Ossetian"
+    name: "Ossetian",
+    direction: "ltr"
   },
   {
     code: "pa",
     country: "in",
-    name: "Punjabi"
+    name: "Punjabi",
+    direction: "ltr"
   },
   {
     code: "pi",
     country: "pi",
-    name: "Pali"
+    name: "Pali",
+    direction: "ltr"
   },
   {
     code: "pl",
     country: "pl",
-    name: "Polish"
+    name: "Polish",
+    direction: "ltr"
   },
   {
     code: "ps",
     country: "af",
-    name: "Pashto"
+    name: "Pashto",
+    direction: "rtl"
   },
   {
     code: "pt",
     country: "pt",
-    name: "Portuguese"
+    name: "Portuguese",
+    direction: "ltr"
   },
   {
     code: "qu",
     country: "qu",
-    name: "Quechua"
+    name: "Quechua",
+    direction: "ltr"
   },
   {
     code: "rm",
     country: "ch",
-    name: "Raeto Romance"
+    name: "Raeto Romance",
+    direction: "ltr"
   },
   {
     code: "rn",
     country: "rn",
-    name: "Kirundi"
+    name: "Kirundi",
+    direction: "ltr"
   },
   {
     code: "ro",
     country: "ro",
-    name: "Romanian"
+    name: "Romanian",
+    direction: "ltr"
   },
   {
     code: "ru",
     country: "ru",
-    name: "Russian"
+    name: "Russian",
+    direction: "ltr"
   },
   {
     code: "rw",
     country: "rw",
-    name: "Rwandi"
+    name: "Rwandi",
+    direction: "ltr"
   },
   {
     code: "sa",
     country: "in",
-    name: "Sanskrit"
+    name: "Sanskrit",
+    direction: "ltr"
   },
   {
     code: "sc",
     country: "it",
-    name: "Sardinian"
+    name: "Sardinian",
+    direction: "ltr"
   },
   {
     code: "sd",
     country: "in",
-    name: "Sindhi"
+    name: "Sindhi",
+    direction: "ltr"
   },
   {
     code: "sg",
     country: "cf",
-    name: "Sango"
+    name: "Sango",
+    direction: "ltr"
   },
   {
     code: "sh",
     country: "unknown",
-    name: "Serbo-Croatian"
+    name: "Serbo-Croatian",
+    direction: "ltr"
   },
   {
     code: "si",
     country: "lk",
-    name: "Sinhalese"
+    name: "Sinhalese",
+    direction: "ltr"
   },
   {
     code: "sk",
     country: "sk",
-    name: "Slovak"
+    name: "Slovak",
+    direction: "ltr"
   },
   {
     code: "sl",
     country: "si",
-    name: "Slovenian"
+    name: "Slovenian",
+    direction: "ltr"
   },
   {
     code: "sm",
     country: "ws",
-    name: "Samoan"
+    name: "Samoan",
+    direction: "ltr"
   },
   {
     code: "sn",
     country: "zw",
-    name: "Shona"
+    name: "Shona",
+    direction: "ltr"
   },
   {
     code: "so",
     country: "so",
-    name: "Somalia"
+    name: "Somalia",
+    direction: "ltr"
   },
   {
     code: "sq",
     country: "al",
-    name: "Albanian"
+    name: "Albanian",
+    direction: "ltr"
   },
   {
     code: "sr",
     country: "rs",
-    name: "Serbian"
+    name: "Serbian",
+    direction: "ltr"
   },
   {
     code: "ss",
     country: "za",
-    name: "Swati"
+    name: "Swati",
+    direction: "ltr"
   },
   {
     code: "st",
     country: "za",
-    name: "Southern Sotho"
+    name: "Southern Sotho",
+    direction: "ltr"
   },
   {
     code: "su",
     country: "su",
-    name: "Sundanese"
+    name: "Sundanese",
+    direction: "ltr"
   },
   {
     code: "sv",
     country: "se",
-    name: "Swedish"
+    name: "Swedish",
+    direction: "ltr"
   },
   {
     code: "sw",
     country: "ke",
-    name: "Swahili"
+    name: "Swahili",
+    direction: "ltr"
   },
   {
     code: "ta",
     country: "in",
-    name: "Tamil"
+    name: "Tamil",
+    direction: "ltr"
   },
   {
     code: "te",
     country: "in",
-    name: "Telugu"
+    name: "Telugu",
+    direction: "ltr"
   },
   {
     code: "tg",
     country: "tj",
-    name: "Tajik"
+    name: "Tajik",
+    direction: "ltr"
   },
   {
     code: "th",
     country: "th",
-    name: "Thai"
+    name: "Thai",
+    direction: "ltr"
   },
   {
     code: "ti",
     country: "ti",
-    name: "Tigrinya"
+    name: "Tigrinya",
+    direction: "ltr"
   },
   {
     code: "tk",
     country: "tm",
-    name: "Turkmen"
+    name: "Turkmen",
+    direction: "ltr"
   },
   {
     code: "tl",
     country: "ph",
-    name: "Tagalog"
+    name: "Tagalog",
+    direction: "ltr"
   },
   {
     code: "tn",
     country: "za",
-    name: "Tswana"
+    name: "Tswana",
+    direction: "ltr"
   },
   {
     code: "to",
     country: "to",
-    name: "Tonga"
+    name: "Tonga",
+    direction: "ltr"
   },
   {
     code: "tr",
     country: "tr",
-    name: "Turkish"
+    name: "Turkish",
+    direction: "ltr"
   },
   {
     code: "ts",
     country: "ts",
-    name: "Tsonga"
+    name: "Tsonga",
+    direction: "ltr"
   },
   {
     code: "tt",
     country: "ru",
-    name: "Tatar"
+    name: "Tatar",
+    direction: "ltr"
   },
   {
     code: "tw",
     country: "gh",
-    name: "Twi"
+    name: "Twi",
+    direction: "ltr"
   },
   {
     code: "ty",
     country: "ty",
-    name: "Tahitian"
+    name: "Tahitian",
+    direction: "ltr"
   },
   {
     code: "ug",
     country: "cn",
-    name: "Uyghur"
+    name: "Uyghur",
+    direction: "ltr"
   },
   {
     code: "uk",
     country: "ua",
-    name: "Ukrainian"
+    name: "Ukrainian",
+    direction: "ltr"
   },
   {
     code: "ur",
     country: "pk",
-    name: "Urdu"
+    name: "Urdu",
+    direction: "rtl"
   },
   {
     code: "ve",
     country: "za",
-    name: "Venda"
+    name: "Venda",
+    direction: "ltr"
   },
   {
     code: "vi",
     country: "vn",
-    name: "Vietnamese"
+    name: "Vietnamese",
+    direction: "ltr"
   },
   {
     code: "vo",
     country: "vo",
-    name: "Volapük"
+    name: "Volapük",
+    direction: "ltr"
   },
   {
     code: "wa",
     country: "wa",
-    name: "Walloon"
+    name: "Walloon",
+    direction: "ltr"
   },
   {
     code: "wo",
     country: "sn",
-    name: "Wolof"
+    name: "Wolof",
+    direction: "ltr"
   },
   {
     code: "xh",
     country: "za",
-    name: "Xhosa"
+    name: "Xhosa",
+    direction: "ltr"
   },
   {
     code: "yi",
     country: "yi",
-    name: "Yiddish"
+    name: "Yiddish",
+    direction: "rtl",
+    direction: "ltr"
   },
   {
     code: "yo",
     country: "ng",
-    name: "Yoruba"
+    name: "Yoruba",
+    direction: "ltr"
   },
   {
     code: "za",
     country: "cn",
-    name: "Zhuang"
+    name: "Zhuang",
+    direction: "ltr"
   },
   {
     code: "zh",
     country: "cn",
-    name: "Chinese"
+    name: "Chinese",
+    direction: "ltr"
   },
   {
     code: "zu",
     country: "za",
-    name: "Zulu"
+    name: "Zulu",
+    direction: "ltr"
   }
 ];

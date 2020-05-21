@@ -20,6 +20,7 @@ var countryNameMap = {};
 var languageCodeMap = {};
 var languageCodeMapForCountries = {};
 var languageNameMap = {};
+var languageDirectionMap = {};
 
 dataForCountries.forEach(function(country) {
   countryCodeMap[country.code.toLowerCase()] = country.name;
@@ -30,6 +31,7 @@ dataForLanguages.forEach(function(language) {
   languageCodeMap[language.code.toLowerCase()] = language.name;
   languageCodeMapForCountries[language.code.toLowerCase()] = language.country;
   languageNameMap[language.name.toLowerCase()] = language.code;
+  languageDirectionMap[language.name.toLowerCase()] = language.direction;
 });
 
 var getCountryCode = function(name) {
@@ -52,6 +54,10 @@ var getLanguageName = function(code) {
   return languageCodeMap[code.toLowerCase()];
 };
 
+var getLanguageDirection = function(code) {
+  return languageDirectionMap[code.toLowerCase()];
+};
+
 /**************************************************************************
  * EXPORTS
  ***************************************************************************/
@@ -61,6 +67,7 @@ exports.getCountryName = getCountryName;
 exports.getLanguageCode = getLanguageCode;
 exports.getLanguageCountry = getLanguageCountry;
 exports.getLanguageName = getLanguageName;
+exports.getLanguageDirection = getLanguageDirection;
 
 exports.countries = dataForCountries;
 exports.languages = dataForLanguages;
