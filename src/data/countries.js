@@ -988,6 +988,10 @@ module.exports = [
     name: "Western Sahara"
   },
   {
+    code: "XK",
+    name: "Kosovo"
+  },
+  {
     code: "YE",
     name: "Yemen"
   },
