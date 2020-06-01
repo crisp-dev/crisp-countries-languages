@@ -105,7 +105,7 @@ module.exports = [
   },
   {
     code: "BO",
-    name: "Bolivia, Plurinational State of"
+    name: "Bolivia"
   },
   {
     code: "BQ",
@@ -205,7 +205,7 @@ module.exports = [
   },
   {
     code: "CD",
-    name: "Congo, the Democratic Republic of the"
+    name: "Congo"
   },
   {
     code: "CK",
@@ -217,7 +217,7 @@ module.exports = [
   },
   {
     code: "CI",
-    name: "Côte d'Ivoire"
+    name: "Ivory Coast"
   },
   {
     code: "HR",
@@ -393,7 +393,7 @@ module.exports = [
   },
   {
     code: "VA",
-    name: "Holy See (Vatican City State)"
+    name: "Vatican City"
   },
   {
     code: "HN",
@@ -421,7 +421,7 @@ module.exports = [
   },
   {
     code: "IR",
-    name: "Iran, Islamic Republic of"
+    name: "Iran"
   },
   {
     code: "IQ",
@@ -473,11 +473,11 @@ module.exports = [
   },
   {
     code: "KP",
-    name: "Korea, Democratic People's Republic of"
+    name: "North Korea"
   },
   {
     code: "KR",
-    name: "Korea, Republic of"
+    name: "South Korea"
   },
   {
     code: "KW",
@@ -489,7 +489,7 @@ module.exports = [
   },
   {
     code: "LA",
-    name: "Lao People's Democratic Republic"
+    name: "Laos"
   },
   {
     code: "LV",
@@ -529,7 +529,7 @@ module.exports = [
   },
   {
     code: "MK",
-    name: "Macedonia, the Former Yugoslav Republic of"
+    name: "Macedonia"
   },
   {
     code: "MG",
@@ -581,11 +581,11 @@ module.exports = [
   },
   {
     code: "FM",
-    name: "Micronesia, Federated States of"
+    name: "Micronesia"
   },
   {
     code: "MD",
-    name: "Moldova, Republic of"
+    name: "Moldova"
   },
   {
     code: "MC",
@@ -681,7 +681,7 @@ module.exports = [
   },
   {
     code: "PS",
-    name: "Palestine, State of"
+    name: "Palestine"
   },
   {
     code: "PA",
@@ -745,7 +745,7 @@ module.exports = [
   },
   {
     code: "SH",
-    name: "Saint Helena, Ascension and Tristan da Cunha"
+    name: "Saint Helena"
   },
   {
     code: "KN",
@@ -869,11 +869,11 @@ module.exports = [
   },
   {
     code: "SY",
-    name: "Syrian Arab Republic"
+    name: "Syria"
   },
   {
     code: "TW",
-    name: "Taiwan, Province of China"
+    name: "Taiwan"
   },
   {
     code: "TJ",
@@ -881,7 +881,7 @@ module.exports = [
   },
   {
     code: "TZ",
-    name: "Tanzania, United Republic of"
+    name: "Tanzania"
   },
   {
     code: "TH",
@@ -965,7 +965,7 @@ module.exports = [
   },
   {
     code: "VE",
-    name: "Venezuela, Bolivarian Republic of"
+    name: "Venezuela"
   },
   {
     code: "VN",
