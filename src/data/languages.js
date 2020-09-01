@@ -658,6 +658,12 @@ module.exports = [
     direction: "ltr"
   },
   {
+    code: "nb",
+    country: "no",
+    name: "Norwegian Bokmål",
+    direction: "ltr"
+  },
+  {
     code: "nd",
     country: "nd",
     name: "North Ndebele",
