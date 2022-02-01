@@ -778,6 +778,12 @@ module.exports = [
     direction: "ltr"
   },
   {
+    code: "pt-br",
+    country: "br",
+    name: "Portuguese (Brazil)",
+    direction: "ltr"
+  },
+  {
     code: "qu",
     country: "qu",
     name: "Quechua",
