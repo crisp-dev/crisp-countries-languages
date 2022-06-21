@@ -1091,6 +1091,12 @@ module.exports = [
     direction: "ltr"
   },
   {
+    code: "zh-tw",
+    country: "tw",
+    name: "Chinese (Traditional)",
+    direction: "ltr"
+  },
+  {
     code: "zu",
     country: "za",
     name: "Zulu",
