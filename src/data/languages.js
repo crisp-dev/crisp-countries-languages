@@ -222,6 +222,48 @@ module.exports = [
     direction: "ltr"
   },
   {
+    code: "en-au",
+    country: "au",
+    name: "English (Australia)",
+    direction: "ltr"
+  },
+  {
+    code: "en-ca",
+    country: "ca",
+    name: "English (Canada)",
+    direction: "ltr"
+  },
+  {
+    code: "en-in",
+    country: "in",
+    name: "English (India)",
+    direction: "ltr"
+  },
+  {
+    code: "en-ie",
+    country: "ie",
+    name: "English (Ireland)",
+    direction: "ltr"
+  },
+  {
+    code: "en-nz",
+    country: "nz",
+    name: "English (New Zealand)",
+    direction: "ltr"
+  },
+  {
+    code: "en-za",
+    country: "za",
+    name: "English (South Africa)",
+    direction: "ltr"
+  },
+  {
+    code: "en-us",
+    country: "us",
+    name: "English (United States)",
+    direction: "ltr"
+  },
+  {
     code: "eo",
     country: "eu",
     name: "Esperanto",
@@ -231,6 +273,54 @@ module.exports = [
     code: "es",
     country: "es",
     name: "Spanish",
+    direction: "ltr"
+  },
+  {
+    code: "es-ar",
+    country: "ar",
+    name: "Spanish (Argentina)",
+    direction: "ltr"
+  },
+  {
+    code: "es-bo",
+    country: "bo",
+    name: "Spanish (Bolivia)",
+    direction: "ltr"
+  },
+  {
+    code: "es-co",
+    country: "co",
+    name: "Spanish (Colombia)",
+    direction: "ltr"
+  },
+  {
+    code: "es-ec",
+    country: "ec",
+    name: "Spanish (Ecuador)",
+    direction: "ltr"
+  },
+  {
+    code: "es-mx",
+    country: "mx",
+    name: "Spanish (Mexico)",
+    direction: "ltr"
+  },
+  {
+    code: "es-pe",
+    country: "pe",
+    name: "Spanish (Peru)",
+    direction: "ltr"
+  },
+  {
+    code: "es-uy",
+    country: "uy",
+    name: "Spanish (Uruguay)",
+    direction: "ltr"
+  },
+  {
+    code: "es-ve",
+    country: "ve",
+    name: "Spanish (Venezuela)",
     direction: "ltr"
   },
   {
@@ -279,6 +369,24 @@ module.exports = [
     code: "fr",
     country: "fr",
     name: "French",
+    direction: "ltr"
+  },
+  {
+    code: "fr-be",
+    country: "be",
+    name: "French (Belgium)",
+    direction: "ltr"
+  },
+  {
+    code: "fr-ca",
+    country: "ca",
+    name: "French (Canada)",
+    direction: "ltr"
+  },
+  {
+    code: "fr-ch",
+    country: "ch",
+    name: "French (Switzerland)",
     direction: "ltr"
   },
   {
@@ -637,6 +745,12 @@ module.exports = [
     code: "ms",
     country: "bn",
     name: "Malay",
+    direction: "ltr"
+  },
+  {
+    code: "ms-my",
+    country: "my",
+    name: "Malay (Malaysia)",
     direction: "ltr"
   },
   {
@@ -1093,7 +1207,13 @@ module.exports = [
   {
     code: "zh-tw",
     country: "tw",
-    name: "Chinese (Traditional)",
+    name: "Chinese (Taiwan)",
+    direction: "ltr"
+  },
+  {
+    code: "zh-hk",
+    country: "hk",
+    name: "Chinese (Hong Kong)",
     direction: "ltr"
   },
   {
