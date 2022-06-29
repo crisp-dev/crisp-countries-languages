@@ -996,7 +996,7 @@ module.exports = [
   {
     code: "so",
     country: "so",
-    name: "Somalia",
+    name: "Somali",
     direction: "ltr"
   },
   {
