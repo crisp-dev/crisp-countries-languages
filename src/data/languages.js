@@ -12,6 +12,12 @@ module.exports = [
     direction: "ltr"
   },
   {
+    code: "ae",
+    country: "ir",
+    name: "Avestan",
+    direction: "rtl"
+  },
+  {
     code: "af",
     country: "za",
     name: "Afrikaans",
@@ -499,7 +505,7 @@ module.exports = [
   },
   {
     code: "ie",
-    country: "ie",
+    country: "unknown",
     name: "Interlingue",
     direction: "ltr"
   },
@@ -523,7 +529,7 @@ module.exports = [
   },
   {
     code: "io",
-    country: "io",
+    country: "unknown",
     name: "Ido",
     direction: "ltr"
   },
@@ -685,6 +691,12 @@ module.exports = [
     code: "lt",
     country: "lt",
     name: "Lithuanian",
+    direction: "ltr"
+  },
+  {
+    code: "lu",
+    country: "cd",
+    name: "Luba-Katanga",
     direction: "ltr"
   },
   {
@@ -952,6 +964,12 @@ module.exports = [
     direction: "ltr"
   },
   {
+    code: "se",
+    country: "no",
+    name: "Northern Sami",
+    direction: "ltr"
+  },
+  {
     code: "sg",
     country: "cf",
     name: "Sango",
@@ -1144,6 +1162,12 @@ module.exports = [
     direction: "rtl"
   },
   {
+    code: "uz",
+    country: "uz",
+    name: "Uzbek",
+    direction: "ltr"
+  },
+  {
     code: "ve",
     country: "za",
     name: "Venda",
@@ -1157,7 +1181,7 @@ module.exports = [
   },
   {
     code: "vo",
-    country: "vo",
+    country: "unknown",
     name: "Volapük",
     direction: "ltr"
   },
