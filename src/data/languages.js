@@ -349,8 +349,8 @@ module.exports = [
   },
   {
     code: "ff",
-    country: "ff",
-    name: "Peul",
+    country: "sn",
+    name: "Fula",
     direction: "ltr"
   },
   {
