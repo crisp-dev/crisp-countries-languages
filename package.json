@@ -4,6 +4,7 @@
   "description": "Toolkit to manage countries and languages",
   "author": "Julien Le Coupanec <julien@crisp.chat>",
   "main": "src/index.js",
+  "types": "types/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git://github.com/crisp-dev/crisp-countries-languages"
