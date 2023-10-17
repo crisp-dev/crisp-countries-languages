@@ -73,6 +73,13 @@ exports.countries = dataForCountries;
 exports.languages = dataForLanguages;
 
 exports.default = {
+  getCountryCode: getCountryCode,
+  getCountryName: getCountryName,
+  getLanguageCode: getLanguageCode,
+  getLanguageCountry: getLanguageCountry,
+  getLanguageName: getLanguageName,
+  getLanguageDirection: getLanguageDirection,
+
   dataForCountries: dataForCountries,
   dataForLanguages: dataForLanguages
 };
