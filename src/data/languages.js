@@ -536,7 +536,8 @@ module.exports = [
   {
     code: "is",
     country: "is",
-    name: "Icelandic"
+    name: "Icelandic",
+    direction: "ltr"
   },
   {
     code: "it",
@@ -649,7 +650,8 @@ module.exports = [
   {
     code: "ky",
     country: "kg",
-    name: "Kirghiz"
+    name: "Kirghiz",
+    direction: "rtl"
   },
   {
     code: "la",
@@ -1207,8 +1209,7 @@ module.exports = [
     code: "yi",
     country: "yi",
     name: "Yiddish",
-    direction: "rtl",
-    direction: "ltr"
+    direction: "rtl"
   },
   {
     code: "yo",
